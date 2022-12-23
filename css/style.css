@@ -47,7 +47,7 @@ body._lock {
 }
 
 [class*="__container"] {
-	max-width: calc(1280px + 10px);
+	max-width: calc(1280px + 20px);
 	margin: 0 auto;
 	padding: 0 10px;
 }
